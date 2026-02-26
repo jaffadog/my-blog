@@ -1,10 +1,10 @@
-baseURL: "https://examplesite.com/"
-title: ExampleSite
+baseURL: "https://jaffadog.github.io/my-blog/"
+title: My Blog Title 1
 paginate: 5
 theme: PaperMod
 
 params:
-  title: ExampleSite
-  description: "ExampleSite description"
+  title: My Blog Title 2
+  description: "Description of my blog"
   keywords: [Blog, Portfolio, PaperMod]
   author: Jeremy
