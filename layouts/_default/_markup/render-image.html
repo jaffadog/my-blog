@@ -1,0 +1,15 @@
+{{ $src := .Destination }}
+{{ $alt := .Text }}
+{{ $caption := .Title }}
+
+{{ with .Page.Resources.Get $src }}
+  {{ $img := . }}
+  {{ $webp := $img.Resize "800x webp" }}
+
+  <figure>
+    <img src="{{ $webp.RelPermalink }}" alt="{{ $alt }}" loading="lazy">
+    {{ with $caption }}
+      <figcaption>{{ . }}</figcaption>
+    {{ end }}
+  </figure>
+{{ end }}

@@ -14,6 +14,7 @@ params:
   ShowBreadCrumbs: true
   showCategories: true
   showTags: true
+  showReadingTime: false
 
   cover:
     hidden: true # hide everywhere but not in structured data
@@ -27,6 +28,6 @@ menu:
       weight: 5
     
 markup:
-  markup.goldmark:
-    markup.goldmark.renderer:
+  goldmark:
+    renderer:
       unsafe: true
