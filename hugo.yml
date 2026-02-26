@@ -1,5 +1,5 @@
 baseURL: "https://jaffadog.github.io/my-blog/"
-title: My Blog Title 1
+title: Voyaging with Calypso
 paginate: 5
 theme: PaperMod
 
@@ -8,3 +8,12 @@ params:
   description: "Description of my blog"
   keywords: [Blog, Portfolio, PaperMod]
   author: Jeremy
+  defaultTheme: dark
+  ShowShareButtons: true
+  ShowPostNavLinks: true
+  ShowBreadCrumbs: true
+
+markup:
+  markup.goldmark:
+    markup.goldmark.renderer:
+      unsafe: true
