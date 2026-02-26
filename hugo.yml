@@ -10,11 +10,12 @@ params:
   author: Jeremy
   defaultTheme: dark
   ShowShareButtons: true
-  ShowPostNavLinks: true
+  # ShareButtons: ["linkedin", "twitter"] # To customize which share buttons to be enabled on page  ShowPostNavLinks: true
   ShowBreadCrumbs: true
   showCategories: true
   showTags: true
   showReadingTime: false
+  comments: true
 
   cover:
     hidden: true # hide everywhere but not in structured data
