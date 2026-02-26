@@ -12,6 +12,8 @@ params:
   ShowShareButtons: true
   ShowPostNavLinks: true
   ShowBreadCrumbs: true
+  showCategories: true
+  showTags: true
 
 markup:
   markup.goldmark:
