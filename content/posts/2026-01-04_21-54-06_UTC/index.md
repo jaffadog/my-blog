@@ -1,5 +1,5 @@
 ---
-title: "Mont Rotui"
+title: "Mont Rotui, Moorea"
 date: 2026-01-04T21:54:06
 draft: false
 ---

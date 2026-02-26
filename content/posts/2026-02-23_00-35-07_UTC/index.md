@@ -1,5 +1,5 @@
 ---
-title: "Archipel Des Gambiers"
+title: "Taravai, Gambiers"
 date: 2026-02-23T00:35:07
 draft: false
 cover:

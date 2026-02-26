@@ -1,5 +1,5 @@
 ---
-title: "Opunohu Bay"
+title: "Opunohu Bay, Moorea"
 date: 2026-01-05T05:08:17
 draft: false
 ---

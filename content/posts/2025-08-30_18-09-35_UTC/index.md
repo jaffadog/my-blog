@@ -1,5 +1,5 @@
 ---
-title: "2025-08-30_18-09-35_UTC"
+title: "Takaroa, Tuamotus"
 date: 2025-08-30T18:09:35
 draft: false
 ---

@@ -1,5 +1,5 @@
 ---
-title: "Archipel Des Gambiers"
+title: "Rikitea, Mangareva, Gambiers"
 date: 2026-02-16T03:32:26
 draft: false
 ---

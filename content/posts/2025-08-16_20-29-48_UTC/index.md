@@ -1,5 +1,5 @@
 ---
-title: "2025-08-16_20-29-48_UTC"
+title: "Katiu, Tuamotus"
 date: 2025-08-16T20:29:48
 draft: false
 ---

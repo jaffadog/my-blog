@@ -1,5 +1,5 @@
 ---
-title: "Avatoru, French Polynesia"
+title: "Avatoru, Rangiroa"
 date: 2025-11-21T22:48:24
 draft: false
 ---

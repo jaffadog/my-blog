@@ -1,5 +1,5 @@
 ---
-title: "Fakarava"
+title: "Fakarava, Tuamotus"
 date: 2026-01-14T05:03:46
 draft: false
 ---

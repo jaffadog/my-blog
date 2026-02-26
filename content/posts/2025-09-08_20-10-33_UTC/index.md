@@ -1,5 +1,5 @@
 ---
-title: "Kauehi (Polinesia Francesa)"
+title: "Kauehi, Tuamotus"
 date: 2025-09-08T20:10:33
 draft: false
 ---
