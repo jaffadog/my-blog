@@ -8,19 +8,21 @@ params:
   description: "Description of my blog"
   keywords: [Blog, Portfolio, PaperMod]
   author: Jeremy
-  defaultTheme: dark
-  ShowShareButtons: true
+  # defaultTheme: dark
+  # ShowShareButtons: true
   # ShareButtons: ["linkedin", "twitter"] # To customize which share buttons to be enabled on page  ShowPostNavLinks: true
   ShowBreadCrumbs: true
   showCategories: true
   showTags: true
   showReadingTime: false
+  ShowPostNavLinks: true
   comments: true
 
   cover:
     hidden: true # hide everywhere but not in structured data
     hiddenInList: false # hide on list pages and home
     # hiddenInSingle: true # hide on single page
+    responsiveImages: true
 
 menu:
   main:
