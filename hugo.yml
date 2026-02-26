@@ -15,6 +15,12 @@ params:
   showCategories: true
   showTags: true
 
+menu:
+  main:
+    - name: Archive
+      url: /archives/
+      weight: 5
+
 markup:
   markup.goldmark:
     markup.goldmark.renderer:
